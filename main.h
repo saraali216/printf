@@ -16,6 +16,7 @@
 #define S_SHORT 1
 /**
 * struct fmt - Struct op
+* by Ichraf and Sara
 * @fmt: The format.
 * @fn: The function associated.
 */
